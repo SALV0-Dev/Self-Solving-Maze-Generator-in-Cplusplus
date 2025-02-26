@@ -1,1 +1,1 @@
-# Self-Solving-Maze-Generator-in-C++
+# Self Solving Maze Generator in C++
